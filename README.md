@@ -1,1 +1,2 @@
-shell basics readme
+hello
+hi
